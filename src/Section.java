@@ -8,7 +8,7 @@ public class Section implements Element{
         this.content=content;
     }
 
-    public Section(String s) {
+    public Section(String sectionTitle) {
         this.sectionTitle=sectionTitle;
     }
 
@@ -27,8 +27,9 @@ public class Section implements Element{
     }
     @Override
     public void print() {
+        System.out.println(sectionTitle);
         for(Element e:content){
-            System.out.println(e);
+            e.print();
         }
     }
 }
