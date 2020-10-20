@@ -1,7 +1,8 @@
 import java.util.*;
 
-public class Book {
+public class Book implements Element{
     public String title;
+    public ArrayList<Element> content=new ArrayList<>();
     private TableOfContents tableOfContents;
     private List <Author> authors=new ArrayList<>();
     public ArrayList <Chapter> chapters=new ArrayList<Chapter>();
@@ -42,5 +43,10 @@ public class Book {
 
     public Chapter getChapter(int indexChapterOne) {
         return chapters.get(indexChapterOne);
+    }
+
+
+    public void addContent(Element e) {
+        content.add(e);
     }
 }
