@@ -1,3 +1,5 @@
+package lab;
+
 import java.util.ArrayList;
 
 public class Paragraph implements Element{
@@ -8,7 +10,7 @@ public class Paragraph implements Element{
     ArrayList<Element>content=new ArrayList<>();
     @Override
     public String toString() {
-        return "Paragraph{" +
+        return "lab.Paragraph{" +
                 "text='" + text + '\'' +
                 '}';
     }

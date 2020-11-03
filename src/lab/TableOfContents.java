@@ -1,3 +1,5 @@
+package lab;
+
 public class TableOfContents {
     public TableOfContents(){}
     private Book book;

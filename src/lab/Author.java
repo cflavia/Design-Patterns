@@ -1,3 +1,5 @@
+package lab;
+
 public class Author {
     public String name;
     private Book book;
@@ -20,7 +22,7 @@ public class Author {
 
     @Override
     public String toString() {
-        return "Author{" +
+        return "lab.Author{" +
                 "name=" + name +
                 '}';
     }

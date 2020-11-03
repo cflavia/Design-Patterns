@@ -1,3 +1,5 @@
+package lab;
+
 import java.awt.*;
 
 public class ImageProxy implements Element {

@@ -2,9 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="649bd29d-30ce-469c-8f4f-f4ca7c87596d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/AlignCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/AlignLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/AlignRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/AlignStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/ImageProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Paragraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Section.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/TableOfContents.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Image.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab/Element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab/Image.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ImageProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab/ImageProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Paragraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab/Paragraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Picture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab/Picture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab/Section.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TableOfContents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab/TableOfContents.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +57,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -41,9 +66,22 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab6.Main" />
+      <module name="TW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="lab.Main" />
       <module name="TW" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -51,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -73,6 +112,9 @@
       <workItem from="1603182389764" duration="3900000" />
       <workItem from="1603706471656" duration="804000" />
       <workItem from="1603796865705" duration="236000" />
+      <workItem from="1603798274371" duration="1127000" />
+      <workItem from="1604401304991" duration="242000" />
+      <workItem from="1604401758850" duration="1266000" />
     </task>
     <task id="LOCAL-00001" summary="first-commit">
       <created>1601973856963</created>
@@ -95,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603185511380</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lab4">
+      <created>1603798467714</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603798467714</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,7 +153,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first-commit" />
     <MESSAGE value="lab3" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab3" />
+    <MESSAGE value="lab4" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602582692605">
@@ -119,34 +169,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603706550105" />
-    <state x="624" y="7" key="CommitChangelistDialog2" timestamp="1603185510674">
+    <state x="624" y="7" key="CommitChangelistDialog2" timestamp="1603798466500">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="624" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603185510674" />
+    <state x="624" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603798466500" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603182790655">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603182790655" />
-    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1603711744070">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1604403063381">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603711744070" />
-    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1603711744069">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604403063381" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1604403063381">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603711744069" />
-    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1603711744069">
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604403063381" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1604403063381">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603711744069" />
-    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1603711744070">
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604403063381" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1604403063381">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603711744070" />
-    <state x="591" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603185513450">
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604403063381" />
+    <state x="591" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603798470491">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="591" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603185513450" />
+    <state x="591" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603798470491" />
     <state x="209" y="33" key="new project wizard" timestamp="1602672389577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

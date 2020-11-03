@@ -1,3 +1,7 @@
+package lab;
+
+import lab.Author;
+
 import java.util.*;
 
 public class Book implements Element{

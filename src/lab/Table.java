@@ -1,3 +1,5 @@
+package lab;
+
 public class Table implements Element{
     public String title;
     public Table(String title){
@@ -14,7 +16,7 @@ public class Table implements Element{
 
     @Override
     public String toString() {
-        return "Table{" +
+        return "lab.Table{" +
                 "title='" + title + '\'' +
                 '}';
     }

@@ -1,3 +1,5 @@
+package lab;
+
 import java.util.concurrent.TimeUnit;
 
 public class Image implements Element {
@@ -6,7 +8,7 @@ public class Image implements Element {
     Image(String name) {
         imageName = name;
         try {
-            TimeUnit.SECONDS.sleep(5);
+            TimeUnit.SECONDS.sleep(3);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
