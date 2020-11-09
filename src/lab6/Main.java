@@ -1,7 +1,9 @@
 package lab6;
 
+
 public class Main {
-    public static void main(String[] args) throws Exception {
+
+    public static <Graphics2D, JLabel> void main(String[] args) throws Exception {
         Section cap1 = new Section("Capitolul 1");
         Paragraph p1 = new Paragraph("Paragraph 1");
         cap1.add(p1);
@@ -11,6 +13,10 @@ public class Main {
         cap1.add(p3);
         Paragraph p4 = new Paragraph("Paragraph 4");
         cap1.add(p4);
+        Image myPicture=new Image("img/img1.png");
+        cap1.add(myPicture);
+        Image myPicture1=new Image("img/img2.jpg");
+        cap1.add(myPicture1);
         System.out.println("Printing without Alignment");
         System.out.println();
         cap1.print();

@@ -3,9 +3,10 @@ package lab6;
 import java.util.concurrent.TimeUnit;
 
 public class Image implements Element {
-    private String imageName;
-    Image(String name){
-        this.imageName=name;
+    private String url;
+    Image content;
+    Image(String url){
+        this.url=url;
         try {
             TimeUnit.SECONDS.sleep(3);
         } catch (InterruptedException e) {
@@ -13,6 +14,9 @@ public class Image implements Element {
         }
     }
     public void print(){
-        System.out.println("Image with name: "+this.imageName);
+        System.out.println("Image name: "+this.url);
+    }
+    public Image content(){
+        return this.content;
     }
 }

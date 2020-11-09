@@ -1,7 +1,5 @@
 package lab6;
 
-import java.util.ArrayList;
-
 public class Paragraph implements Element {
     private String name;
     private AlignStrategy alignStrategy;
