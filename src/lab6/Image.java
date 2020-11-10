@@ -2,7 +2,7 @@ package lab6;
 
 import java.util.concurrent.TimeUnit;
 
-public class Image implements Element {
+public class Image implements Element,Visitee {
     private String url;
     Image content;
     Image(String url){
@@ -18,5 +18,11 @@ public class Image implements Element {
     }
     public Image content(){
         return this.content;
+    }
+    public void accept(BookStatistics stats) {
+        stats.visit(this);
+    }
+    public void accept(Visitor visitor) {
+        visitor.visit(this);
     }
 }

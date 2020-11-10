@@ -2,19 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="649bd29d-30ce-469c-8f4f-f4ca7c87596d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/img/img1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/ImgBMP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/ImgFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/ImgInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/ImgJPG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/ImgPNG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/BookStatistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Visitee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/Visitor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/Element.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lab6/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/Image.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lab6/ImageProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/ImageProxy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lab6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lab6/Paragraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/Paragraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/Section.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/Section.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/TableOfContents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/TableOfContents.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -114,6 +114,8 @@
       <workItem from="1604401304991" duration="242000" />
       <workItem from="1604401758850" duration="4393000" />
       <workItem from="1604938087244" duration="2569000" />
+      <workItem from="1605005141143" duration="1134000" />
+      <workItem from="1605006810292" duration="2260000" />
     </task>
     <task id="LOCAL-00001" summary="first-commit">
       <created>1601973856963</created>
@@ -168,10 +170,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1602582692605" />
-    <state x="825" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1604404139400">
+    <state x="825" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1605009065492">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="825" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1604404139400" />
+    <state x="825" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1605009065492" />
     <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1604503090568">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -180,34 +182,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603706550105" />
-    <state x="624" y="7" key="CommitChangelistDialog2" timestamp="1604403133898">
+    <state x="516" y="314" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1605006141389">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="624" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604403133898" />
+    <state x="516" y="314" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1605006141389" />
+    <state x="624" y="7" key="CommitChangelistDialog2" timestamp="1604940682257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="624" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604940682257" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604411317197">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604411317197" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1604940574820">
+    <state width="1018" height="207" key="GridCell.Tab.0.bottom" timestamp="1605009202783">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604940574820" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1604940574812">
+    <state width="1018" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605009202783" />
+    <state width="1018" height="207" key="GridCell.Tab.0.center" timestamp="1605009202783">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604940574812" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1604940574812">
+    <state width="1018" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605009202783" />
+    <state width="1018" height="207" key="GridCell.Tab.0.left" timestamp="1605009202783">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604940574812" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1604940574820">
+    <state width="1018" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605009202783" />
+    <state width="1018" height="207" key="GridCell.Tab.0.right" timestamp="1605009202783">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604940574820" />
-    <state x="591" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604403137817">
+    <state width="1018" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605009202783" />
+    <state x="591" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604940685500">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="591" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604403137817" />
+    <state x="591" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604940685500" />
     <state x="209" y="33" key="new project wizard" timestamp="1602672389577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -1,6 +1,6 @@
 package lab6;
 
-public class ImageProxy implements Element{
+public class ImageProxy implements Element,Visitee{
     private String url;
     Image realImage=null;
     ImageProxy(String url){
@@ -18,5 +18,10 @@ public class ImageProxy implements Element{
         }
         return realImage;
     }
-
+    public void accept(BookStatistics stats) {
+        stats.visit(this);
+    }
+    public void accept(Visitor visitor) {
+        visitor.visit(this);
+    }
 }

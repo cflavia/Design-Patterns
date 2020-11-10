@@ -24,4 +24,12 @@ public class Section implements Element{
     public void remove(Element elm){
         content.remove(elm);
     }
+
+    public void accept(Visitor visitor) {
+        visitor.visit(this);
+        for(Element i : content){
+           i.accept(visitor);
+        }
+
+    }
 }
