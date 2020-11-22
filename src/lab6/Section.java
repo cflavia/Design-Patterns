@@ -30,6 +30,5 @@ public class Section implements Element{
         for(Element i : content){
            i.accept(visitor);
         }
-
     }
 }

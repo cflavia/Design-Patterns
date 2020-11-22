@@ -1,20 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="649bd29d-30ce-469c-8f4f-f4ca7c87596d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lab6/BookStatistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/Visitee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/Visitor.java" afterDir="false" />
+    <list default="true" id="649bd29d-30ce-469c-8f4f-f4ca7c87596d" name="Default Changelist" comment="lab6">
+      <change afterPath="$PROJECT_DIR$/src/lab8/AlignCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/AlignLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/AlignRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/AlignStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/BookStatistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Chapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/DocumentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/ImageProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/OpenCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Paragraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/SaveCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Section.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/StatisticsCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/SubChapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/TableOfContents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Visitee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Visitor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/Element.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/Image.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/ImageProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/ImageProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Paragraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/Paragraph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lab6/Section.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/Section.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/Table.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/TableOfContents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/TableOfContents.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +45,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="805dbf74-ca41-4f53-bf5e-a5da188277d5" />
   <component name="ProjectId" id="1iUsfIcnZ43mOBTwL8t32j9GDJB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -46,25 +60,41 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\user\TW\src\img" />
-      <recent name="C:\Users\user\TW\src" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\user\TW\src\img" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="lab6" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\TW\src" />
+      <recent name="C:\Users\user\TW\src\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\TW\src\lab7" />
+      <recent name="C:\Users\user\TW\src\laborator7" />
+      <recent name="C:\Users\user\TW\src" />
+      <recent name="C:\Users\user\TW\src\img" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Lab7Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="laborator7.src.Lab7Main" />
+      <module name="TW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="laborator7.src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab6.Main" />
       <module name="TW" />
@@ -78,17 +108,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="laborator7.src.Main" />
       <module name="TW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="laborator7.src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab7.src.Main" />
+      <module name="TW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab7.src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab8.Main" />
+      <module name="TW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Lab7Main" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +180,15 @@
       <workItem from="1604401758850" duration="4393000" />
       <workItem from="1604938087244" duration="2569000" />
       <workItem from="1605005141143" duration="1134000" />
-      <workItem from="1605006810292" duration="2260000" />
+      <workItem from="1605006810292" duration="2539000" />
+      <workItem from="1605611025958" duration="2074000" />
+      <workItem from="1605614917604" duration="978000" />
+      <workItem from="1605948036967" duration="440000" />
+      <workItem from="1605949011165" duration="1446000" />
+      <workItem from="1605972994895" duration="3436000" />
+      <workItem from="1606039954741" duration="614000" />
+      <workItem from="1606040758263" duration="392000" />
+      <workItem from="1606041538417" duration="902000" />
     </task>
     <task id="LOCAL-00001" summary="first-commit">
       <created>1601973856963</created>
@@ -152,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604403134741</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="lab6">
+      <created>1605009221713</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605009221713</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,7 +243,8 @@
     <MESSAGE value="lab3" />
     <MESSAGE value="lab4" />
     <MESSAGE value="lab5" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab5" />
+    <MESSAGE value="lab6" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602582692605">
@@ -178,45 +259,45 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1604503090568" />
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603706550105">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605615054720">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603706550105" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605615054720" />
     <state x="516" y="314" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1605006141389">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="516" y="314" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1605006141389" />
-    <state x="624" y="7" key="CommitChangelistDialog2" timestamp="1604940682257">
+    <state x="624" y="7" key="CommitChangelistDialog2" timestamp="1605611748495">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="624" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604940682257" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604411317197">
+    <state x="624" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605611748495" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605948057378">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604411317197" />
-    <state width="1018" height="207" key="GridCell.Tab.0.bottom" timestamp="1605009202783">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605948057378" />
+    <state width="1018" height="201" key="GridCell.Tab.0.bottom" timestamp="1606042789747">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1018" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605009202783" />
-    <state width="1018" height="207" key="GridCell.Tab.0.center" timestamp="1605009202783">
+    <state width="1018" height="201" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606042789747" />
+    <state width="1018" height="201" key="GridCell.Tab.0.center" timestamp="1606042789747">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1018" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605009202783" />
-    <state width="1018" height="207" key="GridCell.Tab.0.left" timestamp="1605009202783">
+    <state width="1018" height="201" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606042789747" />
+    <state width="1018" height="201" key="GridCell.Tab.0.left" timestamp="1606042789747">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1018" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605009202783" />
-    <state width="1018" height="207" key="GridCell.Tab.0.right" timestamp="1605009202783">
+    <state width="1018" height="201" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606042789747" />
+    <state width="1018" height="201" key="GridCell.Tab.0.right" timestamp="1606042789747">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1018" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605009202783" />
-    <state x="591" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604940685500">
+    <state width="1018" height="201" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606042789747" />
+    <state x="591" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605009243021">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="591" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604940685500" />
-    <state x="209" y="33" key="new project wizard" timestamp="1602672389577">
+    <state x="591" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605009243021" />
+    <state x="209" y="33" key="new project wizard" timestamp="1605948085848">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1602672389577" />
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1605948085848" />
   </component>
 </project>
