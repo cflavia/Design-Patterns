@@ -1,5 +1,7 @@
 package lab6;
 
+import test.Box;
+
 public class BookStatistics implements Visitor{
     private int imagesCounter=0;
     private int tablesCounter=0;
@@ -29,6 +31,12 @@ tablesCounter++;
     public void visit(Section section) {
 sectionsCounter++;
     }
+
+    @Override
+    public void visit(Box box) {
+
+    }
+
     public void printStatistics(){
         System.out.println("Book Statistics: ");
         System.out.println("+++ Number of images: "+imagesCounter);
