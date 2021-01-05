@@ -1,111 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="649bd29d-30ce-469c-8f4f-f4ca7c87596d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/Android.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Charger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/HeadPhones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/IoS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Statistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/TypePhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Visitee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Visitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/WindowsPhone.java" afterDir="false" />
+    <list default="true" id="94358861-9d23-4988-a3b8-30660886b31e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6/Visitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TW.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TW.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/Author.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/Element.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/Image.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/ImageProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/Paragraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/Picture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/Section.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/TableOfContents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/AlignCenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/AlignLeft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/AlignRight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/AlignStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/Author.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/BookStatistics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/Element.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/Image.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/ImageProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/ImgBMP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/ImgFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/ImgInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/ImgJPG.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/ImgPNG.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/Paragraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/Section.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/TableOfContents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/Visitee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6/Visitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/AlignCenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/AlignLeft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/AlignRight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/AlignStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/Author.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/BookStatistics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/Chapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/DocumentManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/Element.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/Image.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/ImageProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/OpenCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/Paragraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/SaveCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/Section.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/StatisticsCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/SubChapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/TableOfContents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/Visitee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab8/Visitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Android.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Charger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Element.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/HeadPhones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/IoS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Statistics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Visitee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Visitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/WindowsPhone.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="805dbf74-ca41-4f53-bf5e-a5da188277d5" />
-  <component name="ProjectId" id="1iUsfIcnZ43mOBTwL8t32j9GDJB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1meDjAdCG85ZXrwUKaBLAj7cP20" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="profiler.calltree.filter" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\user\TW\src\lab7" />
-      <recent name="C:\Users\user\TW\src\laborator7" />
-      <recent name="C:\Users\user\TW\src" />
-      <recent name="C:\Users\user\TW\src\img" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\user\TW\src\test" />
-      <recent name="C:\Users\user\TW\test" />
-      <recent name="C:\Users\user\TW\src" />
-      <recent name="C:\Users\user\TW\src\img" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="lab6" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Lab7Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="laborator7.src.Lab7Main" />
-      <module name="TW" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Lab11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rouvt.Lab11" />
+      <module name="DesignPatterns.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="laborator7.src.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab6.Main" />
-      <module name="TW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab7.src.Main" />
-      <module name="TW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab7.src.*" />
+          <option name="PATTERN" value="rouvt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +177,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab8.Main" />
-      <module name="TW" />
+      <option name="MAIN_CLASS_NAME" value="rouvt.Main" />
+      <module name="TW.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab8.*" />
+          <option name="PATTERN" value="rouvt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Main" />
-      <module name="TW" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rouvt.Test11_24_Sgr2.main" />
+      <module name="DesignPatterns.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="rouvt.Test11_24_Sgr2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,175 +202,189 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Unnamed (1)" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Java1" type="Java Scratch">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="j" />
+      <module name="Sabloane" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Sabloane" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\user\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.main" />
+      <item itemvalue="Application.Lab11" />
+      <item itemvalue="Gradle.Unnamed" />
+      <item itemvalue="Gradle.Unnamed (1)" />
+      <item itemvalue="Java Scratch.Java1" />
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Application.Main" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Lab7Main" />
+        <item itemvalue="Application.Lab11" />
+        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="649bd29d-30ce-469c-8f4f-f4ca7c87596d" name="Default Changelist" comment="" />
-      <created>1601973606784</created>
+      <changelist id="94358861-9d23-4988-a3b8-30660886b31e" name="Default Changelist" comment="" />
+      <created>1609845295225</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601973606784</updated>
-      <workItem from="1601973612729" duration="1040000" />
-      <workItem from="1602577536051" duration="5423000" />
-      <workItem from="1602665885112" duration="598000" />
-      <workItem from="1602671236583" duration="673000" />
-      <workItem from="1602672438319" duration="609000" />
-      <workItem from="1603182389764" duration="3900000" />
-      <workItem from="1603706471656" duration="804000" />
-      <workItem from="1603796865705" duration="236000" />
-      <workItem from="1603798274371" duration="1127000" />
-      <workItem from="1604401304991" duration="242000" />
-      <workItem from="1604401758850" duration="4393000" />
-      <workItem from="1604938087244" duration="2569000" />
-      <workItem from="1605005141143" duration="1134000" />
-      <workItem from="1605006810292" duration="2539000" />
-      <workItem from="1605611025958" duration="2074000" />
-      <workItem from="1605614917604" duration="978000" />
-      <workItem from="1605948036967" duration="440000" />
-      <workItem from="1605949011165" duration="1446000" />
-      <workItem from="1605972994895" duration="3436000" />
-      <workItem from="1606039954741" duration="614000" />
-      <workItem from="1606040758263" duration="392000" />
-      <workItem from="1606041538417" duration="1961000" />
-      <workItem from="1606130976082" duration="599000" />
-      <workItem from="1606209751095" duration="7343000" />
+      <updated>1609845295225</updated>
+      <workItem from="1609845296821" duration="1289000" />
+      <workItem from="1609846681264" duration="467000" />
+      <workItem from="1609847369935" duration="14000" />
     </task>
-    <task id="LOCAL-00001" summary="first-commit">
-      <created>1601973856963</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1601973856963</updated>
-    </task>
-    <task id="LOCAL-00002" summary="first-commit">
-      <created>1603184804415</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1603184804415</updated>
-    </task>
-    <task id="LOCAL-00003" summary="lab3">
-      <created>1603185511380</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1603185511380</updated>
-    </task>
-    <task id="LOCAL-00004" summary="lab4">
-      <created>1603798467714</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1603798467714</updated>
-    </task>
-    <task id="LOCAL-00005" summary="lab5">
-      <created>1604403134740</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1604403134741</updated>
-    </task>
-    <task id="LOCAL-00006" summary="lab6">
-      <created>1605009221713</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1605009221713</updated>
-    </task>
-    <task id="LOCAL-00007" summary="lab8">
-      <created>1606042888977</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1606042888977</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="first-commit" />
-    <MESSAGE value="lab3" />
-    <MESSAGE value="lab4" />
-    <MESSAGE value="lab5" />
-    <MESSAGE value="lab6" />
-    <MESSAGE value="lab8" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab8" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602582692605">
+    <state x="494" y="70" key="#11" timestamp="1609846071441">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1602582692605" />
-    <state x="825" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1606220449899">
+    <state x="494" y="70" key="#11/0.0.1536.824@0.0.1536.824" timestamp="1609846071441" />
+    <state x="494" y="70" key="#Java1" timestamp="1609846991065">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="825" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1606220449899" />
-    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1604503090568">
+    <state x="494" y="70" key="#Java1/0.0.1536.824@0.0.1536.824" timestamp="1609846991065" />
+    <state x="361" y="71" key="#Project_Structure" timestamp="1609847147934">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1604503090568" />
-    <state x="228" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606217995094">
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1609847147934" />
+    <state x="494" y="70" key="#Unnamed" timestamp="1609846047817">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="228" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1606217995094" />
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606217583530">
+    <state x="494" y="70" key="#Unnamed/0.0.1536.824@0.0.1536.824" timestamp="1609846047817" />
+    <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609847976303">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1606217583530" />
-    <state x="516" y="314" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1605006141389">
+    <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1609847976303" />
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1609845323582">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="516" y="314" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1605006141389" />
-    <state x="624" y="7" key="CommitChangelistDialog2" timestamp="1606042887921">
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1609845323582" />
+    <state x="385" y="7" key="CommitChangelistDialog2" timestamp="1609847421855">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="624" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606042887921" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606209879104">
+    <state x="385" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1609847421855" />
+    <state x="551" y="128" key="DetectedRootsChooserDialog" timestamp="1609846518286">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606209879104" />
-    <state width="1018" height="201" key="GridCell.Tab.0.bottom" timestamp="1606220491946">
+    <state x="551" y="128" key="DetectedRootsChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1609846518286" />
+    <state x="501" y="154" key="FileChooserDialogImpl" timestamp="1609847868503">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1018" height="201" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606220491946" />
-    <state width="1018" height="201" key="GridCell.Tab.0.center" timestamp="1606220491945">
+    <state x="501" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609847868503" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1609847305208">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1018" height="201" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606220491945" />
-    <state width="1018" height="201" key="GridCell.Tab.0.left" timestamp="1606220491945">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609847305208" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1609847305208">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1018" height="201" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606220491945" />
-    <state width="1018" height="201" key="GridCell.Tab.0.right" timestamp="1606220491945">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609847305208" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1609847305208">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1018" height="201" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606220491945" />
-    <state x="591" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606042892039">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609847305208" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1609847305208">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="591" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606042892039" />
-    <state x="209" y="33" key="new project wizard" timestamp="1606209910504">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609847305208" />
+    <state x="539" y="134" key="RollbackChangesDialog" timestamp="1609846565598">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1606209910504" />
-    <state x="243" y="41" key="refactoring.ChangeSignatureDialog" timestamp="1606220374178">
+    <state x="539" y="134" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1609846565598" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1609847079306">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="243" y="41" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1606220374178" />
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1609847079306" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1609847438262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1609847438262" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1609846598144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1609846598144" />
   </component>
 </project>
