@@ -6,7 +6,7 @@ import rouvt.services.DocumentManager;
 import rouvt.services.OpenCommand;
 import rouvt.services.StatisticsCommand;
 
-public class Lab7Main {
+public class Lab7 {
 
     public static void main(String[] args) throws Exception {
         Command cmd1 = new OpenCommand();

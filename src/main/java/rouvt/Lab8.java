@@ -1,18 +1,18 @@
 package rouvt;
 
-import rouvt.Lab10example.ClientComponent;
-import rouvt.Lab10example.SingletonComponent;
-import rouvt.Lab10example.TransientComponent;
+import rouvt.Lab10.ClientComponent;
+import rouvt.Lab10.SingletonComponent;
+import rouvt.Lab10.TransientComponent;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import org.springframework.context.ApplicationContext;
 
 @SpringBootApplication
-public class MySpringApplication {
+public class Lab8 {
     public static void main(String[] args) {
 
-        ApplicationContext context = SpringApplication.run(MySpringApplication.class, args);
+        ApplicationContext context = SpringApplication.run(rouvt.Lab8.class, args);
         TransientComponent transientBean = context.getBean(TransientComponent.class);
         transientBean.operation();
         transientBean = context.getBean(TransientComponent.class);

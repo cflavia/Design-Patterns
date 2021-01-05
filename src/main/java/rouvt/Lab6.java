@@ -8,7 +8,7 @@ import rouvt.models.Section;
 import rouvt.models.Table;
 import rouvt.services.BookStatistics;
 
-public class Lab6Main {
+public class Lab6 {
 
     public static void main(String[] args) throws Exception {
         Section cap1 = new Section("Capitolul 1");

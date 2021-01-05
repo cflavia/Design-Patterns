@@ -22,96 +22,53 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94358861-9d23-4988-a3b8-30660886b31e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="94358861-9d23-4988-a3b8-30660886b31e" name="Default Changelist" comment="lab11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TW.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TW.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/img1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab/Author.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab/Element.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab/Image.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab/ImageProxy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab/Paragraph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab/Picture.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab/Section.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab/Table.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab/TableOfContents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/AlignCenter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/AlignLeft.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/AlignRight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/AlignStrategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Author.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/BookStatistics.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Element.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Image.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/ImageProxy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/ImgBMP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/ImgFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/ImgInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/ImgJPG.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/ImgPNG.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Paragraph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Section.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Table.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/TableOfContents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Visitee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab6/Visitor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/AlignCenter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/AlignLeft.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/AlignRight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/AlignStrategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/Author.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/BookStatistics.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/Chapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/Command.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/DocumentManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/Element.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/Image.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/ImageProxy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/OpenCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/Paragraph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/SaveCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/Section.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/StatisticsCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/SubChapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/Table.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/TableOfContents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/Visitee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab8/Visitor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Android.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Box.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Charger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Element.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/HeadPhones.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/IoS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Phone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Statistics.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Visitee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Visitor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/WindowsPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/rouvt/Lab11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/rouvt/Lab11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/rouvt/Lab6Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/rouvt/Lab7Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/rouvt/MySpringApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/Lab10example/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/Lab10/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/Lab10example/ClientComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/Lab10/ClientComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/Lab10example/SingletonComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/Lab10/SingletonComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/Lab10example/TransientComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/Lab10/TransientComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/Lab11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/Lab11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/Lab6Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/Lab6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/Lab7Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/Lab7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/MySpringApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/Lab8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/controllers/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/controllers/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/models/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/models/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/models/BaseElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/models/BaseElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/models/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/models/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/models/Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/models/Element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/models/FirstObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/models/FirstObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/models/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/models/Image.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/models/ImageProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/models/ImageProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/models/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/models/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/models/Paragraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/models/Paragraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/models/SecondObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/models/SecondObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/models/Section.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/models/Section.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/models/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/models/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/models/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/models/Visitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/repositories/AuthorsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/repositories/AuthorsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/repositories/BooksRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/repositories/BooksRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/services/AlignCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/services/AlignCenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/services/AlignLeft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/services/AlignLeft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/services/AlignRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/services/AlignRight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/services/AlignStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/services/AlignStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/services/BMPImageLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/services/BMPImageLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/services/BookStatistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/services/BookStatistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/services/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/services/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/services/DocumentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/services/DocumentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/services/ImageLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/services/ImageLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/services/ImageLoaderFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/services/ImageLoaderFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/services/JPGImageLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/services/JPGImageLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/services/Observable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/services/Observable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/services/OpenCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/services/OpenCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/services/PNGImageLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/services/PNGImageLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/services/StatisticsCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/services/StatisticsCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/floder/services/f.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rouvt/services/f.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,10 +119,25 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="profiler.calltree.filter" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Lab11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Lab11 (1)">
+    <configuration name="Lab11 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rouvt.Lab11" />
-      <module name="DesignPatterns.main" />
+      <module name="TW.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rouvt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="rouvt.Lab11" />
+      <module name="TW" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="rouvt.*" />
@@ -277,11 +249,13 @@
       <item itemvalue="Java Scratch.Java1" />
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Lab11 (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Lab11 (1)" />
         <item itemvalue="Application.Lab11" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
@@ -301,6 +275,21 @@
       <workItem from="1609846681264" duration="467000" />
       <workItem from="1609847369935" duration="14000" />
     </task>
+    <task id="LOCAL-00001" summary="lab11">
+      <created>1609848055345</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609848055345</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lab11">
+      <created>1609848271096</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609848271096</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,6 +305,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab11" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab11" />
   </component>
   <component name="WindowStateProjectService">
     <state x="494" y="70" key="#11" timestamp="1609846071441">
@@ -354,22 +347,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="501" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609847868503" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1609847305208">
+    <state width="1122" height="195" key="GridCell.Tab.0.bottom" timestamp="1609848569768">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609847305208" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1609847305208">
+    <state width="1122" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609848569768" />
+    <state width="1122" height="195" key="GridCell.Tab.0.center" timestamp="1609848569767">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609847305208" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1609847305208">
+    <state width="1122" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609848569767" />
+    <state width="1122" height="195" key="GridCell.Tab.0.left" timestamp="1609848569767">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609847305208" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1609847305208">
+    <state width="1122" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609848569767" />
+    <state width="1122" height="195" key="GridCell.Tab.0.right" timestamp="1609848569768">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609847305208" />
+    <state width="1122" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609848569768" />
     <state x="539" y="134" key="RollbackChangesDialog" timestamp="1609846565598">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -378,10 +371,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1609847079306" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1609847438262">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1609848550651">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1609847438262" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1609848550651" />
     <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1609846598144">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
