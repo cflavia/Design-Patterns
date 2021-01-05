@@ -1,0 +1,104 @@
+rouvt/services/AlignCenter.java
+ rouvt.services.AlignCenter
+rouvt/models/Image.java
+ rouvt.models.Image
+rouvt/Lab10example/TransientComponent.java
+ rouvt.Lab10example.TransientComponent
+rouvt/models/Author.java
+ rouvt.models.Author
+rouvt/Test11_24_Sgr2/Element.java
+ rouvt.Test11_24_Sgr2.Element
+rouvt/models/Book.java
+ rouvt.models.Book
+rouvt/services/Command.java
+ rouvt.services.Command
+rouvt/controllers/HelloController.java
+ rouvt.controllers.HelloController
+rouvt/Lab10example/ClientComponent.java
+ rouvt.Lab10example.ClientComponent
+rouvt/services/AlignRight.java
+ rouvt.services.AlignRight
+rouvt/services/AlignLeft.java
+ rouvt.services.AlignLeft
+rouvt/Lab11.java
+ rouvt.Lab11
+rouvt/models/BaseElement.java
+ rouvt.models.BaseElement
+rouvt/Test11_24_Sgr2/AlignCenter.java
+ rouvt.Test11_24_Sgr2.AlignCenter
+rouvt/Test11_24_Sgr2/AlignLeft.java
+ rouvt.Test11_24_Sgr2.AlignLeft
+rouvt/models/SecondObserver.java
+ rouvt.models.SecondObserver
+rouvt/Test11_24_Sgr2/Visitor.java
+ rouvt.Test11_24_Sgr2.Visitor
+rouvt/models/FirstObserver.java
+ rouvt.models.FirstObserver
+rouvt/services/OpenCommand.java
+ rouvt.services.OpenCommand
+rouvt/models/Observer.java
+ rouvt.models.Observer
+rouvt/Test11_24_Sgr2/Txt.java
+ rouvt.Test11_24_Sgr2.Txt
+rouvt/Lab10example/Application.java
+ rouvt.Lab10example.Application
+rouvt/services/JPGImageLoader.java
+ rouvt.services.JPGImageLoader
+rouvt/Test11_24_Sgr2/Svg.java
+ rouvt.Test11_24_Sgr2.Svg
+rouvt/models/Table.java
+ rouvt.models.Table
+rouvt/services/BMPImageLoader.java
+ rouvt.services.BMPImageLoader
+rouvt/Test11_24_Sgr2/Director.java
+ rouvt.Test11_24_Sgr2.Director
+rouvt/Lab6Main.java
+ rouvt.Lab6Main
+rouvt/repositories/BooksRepository.java
+ rouvt.repositories.BooksRepository
+rouvt/Test11_24_Sgr2/main.java
+ rouvt.Test11_24_Sgr2.main
+rouvt/Lab7Main.java
+ rouvt.Lab7Main
+rouvt/Test11_24_Sgr2/AlignRight.java
+ rouvt.Test11_24_Sgr2.AlignRight
+rouvt/models/Paragraph.java
+ rouvt.models.Paragraph
+rouvt/models/ImageProxy.java
+ rouvt.models.ImageProxy
+rouvt/repositories/AuthorsRepository.java
+ rouvt.repositories.AuthorsRepository
+rouvt/services/ImageLoader.java
+ rouvt.services.ImageLoader
+rouvt/services/PNGImageLoader.java
+ rouvt.services.PNGImageLoader
+rouvt/services/StatisticsCommand.java
+ rouvt.services.StatisticsCommand
+rouvt/Test11_24_Sgr2/Mp3.java
+ rouvt.Test11_24_Sgr2.Mp3
+rouvt/Main.java
+ rouvt.Main
+rouvt/models/Element.java
+ rouvt.models.Element
+rouvt/Lab10example/SingletonComponent.java
+ rouvt.Lab10example.SingletonComponent
+rouvt/models/Section.java
+ rouvt.models.Section
+rouvt/services/Observable.java
+ rouvt.services.Observable
+rouvt/services/DocumentManager.java
+ rouvt.services.DocumentManager
+rouvt/services/ImageLoaderFactory.java
+ rouvt.services.ImageLoaderFactory
+rouvt/models/Visitor.java
+ rouvt.models.Visitor
+rouvt/services/BookStatistics.java
+ rouvt.services.BookStatistics
+rouvt/services/AlignStrategy.java
+ rouvt.services.AlignStrategy
+rouvt/Test11_24_Sgr2/FileSizes.java
+ rouvt.Test11_24_Sgr2.FileSizes
+rouvt/MySpringApplication.java
+ rouvt.MySpringApplication
+rouvt/Test11_24_Sgr2/AlignStrategy.java
+ rouvt.Test11_24_Sgr2.AlignStrategy
